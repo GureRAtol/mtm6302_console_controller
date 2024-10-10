@@ -1,1 +1,3 @@
-# mtm6302_console_controller
+CONSOLE CONTROLLER
+Gurpreet Singh 
+Student number : 41125274
